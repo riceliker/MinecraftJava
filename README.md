@@ -10,6 +10,12 @@ Made mods for java minecraft!
  + ##### Thanks
     + ###### RUNOOB:A code learning website:
 ![RUNOOB](http://static.runoob.com/images/runoob-logo.png)
+   + ###### MOJANG:A studio create the minecraft:
 
+   + ###### MINECRAFT:A game I like:
 
-   
+   + ###### FORGE:A mod development template:
+
+   + ###### JAVA:A coding language:
+
+# WELCOME TO MINECRAFT MOD DEVELOPMENT WORLD!
